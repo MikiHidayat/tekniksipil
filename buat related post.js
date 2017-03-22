@@ -47,6 +47,6 @@ r = 0;
 i++;
 }
 document.write('</ul>');
-document.write('<a style="font-size:18px;font-color:#FF0000;" rel="dofollow" href="http://mikihidayat.blogspot.com/">BERANDA</a></font>');
+document.write('<a style="font-size:18px;font-color:#FF0000;" rel="dofollow" href="http://mikihidayat.blogspot.com/p/sitemap.html">BERANDA</a></font>');
 }
 //]]>
