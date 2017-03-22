@@ -47,6 +47,6 @@ r = 0;
 i++;
 }
 document.write('</ul>');
-document.write('<a style="font-size:18px;font-color:#FF0000;" rel="dofollow" href="http://bos-tutorial.blogspot.com/">Tutorial Blog</a></font>');
+document.write('<a style="font-size:18px;font-color:#FF0000;" rel="dofollow" href="http://mikihidayat.blogspot.com/p/site-map.html/">Daftar Isi Blog</a></font>');
 }
 //]]>
