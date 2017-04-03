@@ -48,5 +48,5 @@ i++;
 }
 document.write('</ul>');
 document.write('<a style="font-size:18px;font-color:#FF0000;" rel="dofollow" href="https://mikihidayat.blogspot.co.id/">BERANDA</a></font>');
-}https://mikihidayat.blogspot.co.id/
+}
 //]]>
